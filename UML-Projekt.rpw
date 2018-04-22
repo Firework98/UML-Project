@@ -1,0 +1,117 @@
+I-Logix-RPY-Archive version 8.14.0 * 9810313
+{ CGEMdiWorkspace 
+	- stubList = { IRPYRawContainer 
+		- size = 0;
+	}
+	- isLoadOnDemand = 0;
+	- myViewsWithID = { IRPYRawContainer 
+		- size = 3;
+		- value = 
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 78;
+				- m_nTop = 78;
+				- m_nRight = 1139;
+				- m_nBottom = 410;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _filename = ".\\UML-Projekt_rpy\\Default.sbs";
+				- _subsystem = "Default";
+				- _name = "cd_001";
+				- _id = GUID f8e62980-bec7-47a5-a913-3443cf5fd2f4;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1196 467 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 0;
+			- m_bIsActiveView = 1;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 52;
+				- m_nTop = 52;
+				- m_nRight = 1224;
+				- m_nBottom = 384;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IUCDiagram";
+				- _filename = ".\\UML-Projekt_rpy\\Default.sbs";
+				- _subsystem = "Default";
+				- _name = "uc001";
+				- _id = GUID 8dfd7cc5-5f91-4ebb-b35c-fb77860285f4;
+			}
+			- _UpLeft = 268 0 ;
+			- _DownRight = 3106 680 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 1;
+			- m_bIsActiveView = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 26;
+				- m_nTop = 26;
+				- m_nRight = 1198;
+				- m_nBottom = 358;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IDiagram";
+				- _name = "Model1";
+				- _id = GUID 81a194ec-6b7e-4e0d-8f06-8fd3a3550251;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 1135 272 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 2;
+			- m_bIsActiveView = 0;
+		}
+	}
+	- _fullName = "C:\\Users\\Thorben\\Desktop\\Neuer Ordner\\UML-Projekt\\UML-Projekt";
+	- _selectedPerspective = "Advanced";
+	- m_SearchScopeList = { IRPYRawContainer 
+		- size = 0;
+	}
+	- bUsingBrowserCustomView = 1;
+	- bApplyOnDiagrams = 0;
+	- liCustomViewIDs = { IRPYRawContainer 
+		- size = 0;
+	}
+	- mapOslcRmCollections = { IRPYRawContainer 
+		- size = 0;
+	}
+
+	- m_favoritesTree = {
+		count=1;
+		{ - favoritesItem
+			generation = 0;
+			name = Favorites;
+			idOrFolder = folder;
+		}
+	}
+
+}
+
