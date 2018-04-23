@@ -29,8 +29,8 @@ I-Logix-RPY-Archive version 8.14.0 * 9810313
 				- _name = "cd_001";
 				- _id = GUID f8e62980-bec7-47a5-a913-3443cf5fd2f4;
 			}
-			- _UpLeft = 0 0 ;
-			- _DownRight = 1196 467 ;
+			- _UpLeft = 0 172 ;
+			- _DownRight = 1201 652 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 0;
 			- m_bIsActiveView = 1;
@@ -57,8 +57,8 @@ I-Logix-RPY-Archive version 8.14.0 * 9810313
 				- _name = "uc001";
 				- _id = GUID 8dfd7cc5-5f91-4ebb-b35c-fb77860285f4;
 			}
-			- _UpLeft = 268 0 ;
-			- _DownRight = 3106 680 ;
+			- _UpLeft = 704 301 ;
+			- _DownRight = 1785 560 ;
 			- _instanceName = "";
 			- m_nDiagramIndex = 1;
 			- m_bIsActiveView = 0;
@@ -90,7 +90,7 @@ I-Logix-RPY-Archive version 8.14.0 * 9810313
 			- m_bIsActiveView = 0;
 		}
 	}
-	- _fullName = "C:\\Users\\Thorben\\Desktop\\Neuer Ordner\\UML-Projekt\\UML-Projekt";
+	- _fullName = "C:\\Users\\Thorben\\Desktop\\Neuer Ordner\\UML-Project\\UML-Projekt";
 	- _selectedPerspective = "Advanced";
 	- m_SearchScopeList = { IRPYRawContainer 
 		- size = 0;
